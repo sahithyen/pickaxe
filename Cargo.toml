@@ -2,6 +2,8 @@
 name = "pickaxe"
 version = "0.1.0"
 authors = ["Sahithyen Kanaganayagam <mail@sahithyen.com>"]
+description = "A programming language for microcontrollers of the PIC16F6XX series"
+license = "GPL-3.0-or-later"
 edition = "2018"
 
 [dependencies]
