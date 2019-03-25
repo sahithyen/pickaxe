@@ -6,4 +6,8 @@ description = "A programming language for microcontrollers of the PIC16F6XX seri
 license = "GPL-3.0-or-later"
 edition = "2018"
 
+[[bin]]
+name = "pc"
+path = "src/main.rs"
+
 [dependencies]
